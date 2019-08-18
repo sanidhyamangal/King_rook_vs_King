@@ -1,4 +1,4 @@
-White_king_col, White_king_row, White_rook_col, White_rook_row, Black_king_col, Black_king_row
+White_king_col, White_king_row, White_rook_col, White_rook_row, Black_king_col, Black_king_row, Game
 a,1,b,3,c,2,draw
 a,1,c,1,c,2,draw
 a,1,c,1,d,1,draw
